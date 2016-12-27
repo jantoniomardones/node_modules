@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "eslint-config-graylog@^1.0.2",
+      "/home/jose_mardones/graylog-project/graylog2-server/graylog2-web-interface/packages/graylog-web-plugin"
+    ]
+  ],
+  "_from": "eslint-config-graylog@>=1.0.2 <2.0.0",
+  "_id": "eslint-config-graylog@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/eslint-config-graylog",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/eslint-config-graylog-1.0.2.tgz_1467370838003_0.8335050223395228"
+  },
+  "_npmUser": {
+    "email": "hello@graylog.com",
+    "name": "graylogorg"
+  },
+  "_npmVersion": "3.8.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "eslint-config-graylog",
+    "raw": "eslint-config-graylog@^1.0.2",
+    "rawSpec": "^1.0.2",
+    "scope": null,
+    "spec": ">=1.0.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/graylog-web-plugin"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-config-graylog/-/eslint-config-graylog-1.0.2.tgz",
+  "_shasum": "4ebc7c2b63763d6c6bffea8cbceb88590f3ad9ec",
+  "_shrinkwrap": null,
+  "_spec": "eslint-config-graylog@^1.0.2",
+  "_where": "/home/jose_mardones/graylog-project/graylog2-server/graylog2-web-interface/packages/graylog-web-plugin",
+  "author": {
+    "email": "hello@graylog.com",
+    "name": "Graylog, Inc."
+  },
+  "dependencies": {
+    "eslint": "^2.10.2",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.10.0",
+    "eslint-plugin-jsx-a11y": "^1.5.3",
+    "eslint-plugin-react": "^5.2.2"
+  },
+  "description": "Graylog ESLint config for web interface plugin authors",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4ebc7c2b63763d6c6bffea8cbceb88590f3ad9ec",
+    "tarball": "https://registry.npmjs.org/eslint-config-graylog/-/eslint-config-graylog-1.0.2.tgz"
+  },
+  "keywords": [
+    "graylog",
+    "eslint"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "hello@graylog.com",
+      "name": "graylogorg"
+    }
+  ],
+  "name": "eslint-config-graylog",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "eslint": "^2.10.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
